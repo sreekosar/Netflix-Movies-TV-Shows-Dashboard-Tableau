@@ -52,8 +52,11 @@ Tableau used to build an interactive dashboard with multiple visual layers.
 Filters, parameters, and calculated fields were implemented for dynamic user exploration.
 Map visualization, bar charts, line charts, and bubble charts enhance insights representation.
 Business Impact & Use Cases
+
 ✔ Content Strategy Optimization – Helps Netflix executives and analysts assess content demand, genre performance, and market gaps.
+
 ✔ Regional Expansion Insights – Provides a clear view of content availability across countries, supporting strategic licensing and production decisions.
+
 ✔ User Engagement & Personalization – Insights can be leveraged for better content recommendations and personalized viewing experiences.
 
 Tools & Technologies Used
