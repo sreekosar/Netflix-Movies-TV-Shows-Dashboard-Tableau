@@ -9,35 +9,43 @@ Project Overview
 The Netflix Movies & TV Shows Dashboard is an interactive Tableau visualization designed to provide key insights into Netflix's content library. This dashboard enables users to explore content distribution, ratings, genres, release trends, and geographic availability, supporting data-driven decision-making for content strategy and market analysis.
 
 Key Features & Insights
+
 🔹 Interactive Filtering by Genre, Country, and Release Year
 
 Allows users to explore specific content categories based on personal or business interests.
 Provides granular insights into content trends across different markets.
+
 🔹 Ratings Distribution Analysis
 
 Displays the distribution of content ratings (TV-MA, TV-14, PG-13, etc.) to understand content maturity levels.
 Helps assess Netflix’s focus on different audience segments.
+
 🔹 Movies & TV Shows Distribution
 
 Visual breakdown of movies vs. TV shows in Netflix’s catalog.
 Highlights Netflix’s content strategy by analyzing the proportion of films and series.
+
 🔹 Total Movies & TV Shows by Country
 
 World map visualization showcasing the geographic distribution of Netflix content.
 Assists in identifying content-rich regions and gaps in Netflix’s library.
+
 🔹 Top 10 Genres Analysis
 
 Displays the most popular content categories based on availability.
 Helps stakeholders understand genre preferences and content diversity.
+
 🔹 Content Trends Over Time
 
 Timeline analysis showing Netflix’s content growth from 2008 to 2020.
 Identifies peak content addition years and trends in content type evolution.
 Technical Implementation
+
 🔹 Data Preparation & Transformation
 
 Data sourced from Netflix’s open dataset for structured analysis.
 Preprocessed and cleaned data in Excel & SQL before importing into Tableau.
+
 🔹 Visualization Development
 
 Tableau used to build an interactive dashboard with multiple visual layers.
